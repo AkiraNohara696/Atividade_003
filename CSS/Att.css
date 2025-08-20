@@ -1,0 +1,53 @@
+
+
+#Azul{
+    background-color: blue;
+    position: absolute;
+    top: 0px;
+    left: 10%;
+    width: 15%;
+    height: 20%;
+    text-align: center;
+
+}
+
+#Vermelho{
+    position: absolute;
+    background-color: red;
+    width: 80%;
+    height: 90%;
+    left: 10%;
+    top: 0;
+    text-align: center;
+}
+
+#Verde{
+    position: absolute;
+    background-color: greenyellow;
+    width: 80%;
+    height: 50px;
+    left: 10%;
+    top: 15%;
+    text-align: center;
+}
+
+#Amarelo{
+    background-color: yellow;
+    position: absolute;
+    top: 25%;
+    left: 11%;
+    width: 78%;
+    height: 60%;
+    text-align: center;
+
+}
+
+#Cinza{
+    position: absolute;
+    background-color: gray;
+    width: 80%;
+    height: 50px;
+    left: 10%;
+    top: 87%;
+    text-align: center;
+}
